@@ -4,5 +4,5 @@
 
 # 访问地址
 
-[tetrisChallenge](https://amholly.github.io/tetris/tetris.html)
+[tetrisChallenge](https://hualizhou167.github.io/tetris/tetris.html)
 
